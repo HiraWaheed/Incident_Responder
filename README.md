@@ -28,7 +28,7 @@ A security-first LLM agent that triages logs and alerts to assist in incident re
 
 ```bash
 git clone https://github.com/HiraWaheed/Incident_Responder.git
-cd incident-response-agent
+cd Incident_Responder
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 ````
